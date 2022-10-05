@@ -1,7 +1,7 @@
-title: ERGOSTATS
-baseURL: https://www.facebook.com/ergostats
+title: ergostats_blog
+baseURL: /
 theme: Vno-Hugo
-defaultContentLanguage: en-us
+defaultContentLanguage: es-es
 languages:
   en-us:
     languageName: English(United States)
@@ -17,9 +17,9 @@ outputs:
     - RSS
 menu:
   main:
-    - identifier: projects
-      name: Projects
-      url: http://project.onevcat.com/
+    - identifier: actividades
+      name: ¿Que hacemos?
+      url: /ergostats/
       weight: 10
     - identifier: Tags
       name: Tags
@@ -27,8 +27,9 @@ menu:
       weight: 20
 taxonomies:
   tag: tags
+  tag: ergostats
 params:
-  author: onevcat
+  author: Staff ERGOSTATS
   blogButton:
     description: Visit blog
     title: Blog
@@ -44,7 +45,7 @@ params:
     license: CC BY-NC-SA 4.0
     license_link: http://creativecommons.org/licenses/by-nc-sa/4.0/
   coverColor: red
-  description: Centro Estadístico
+  description: Centro de investigación estadística
   ga:
     ID: your_ga_id
     host: your_host
@@ -52,9 +53,8 @@ params:
     github: ergostats
     facebook: ergostats
     linkedin: example
-    mail: onev@onevcat.com
-    twitter: onevcat
-    weibo: onevcat
+    mail: cdiergostats@gmail.com
+    twitter: ergostats
   subtitle: Investigación y Desarrollo
   welcomeMessage: Bienvenidos
 permalinks:
