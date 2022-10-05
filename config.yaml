@@ -1,7 +1,7 @@
 title: ergostats_blog
 baseURL: /
 theme: Vno-Hugo
-defaultContentLanguage: es-es
+defaultContentLanguage: en-us
 languages:
   en-us:
     languageName: English(United States)
@@ -27,12 +27,12 @@ menu:
       weight: 20
 taxonomies:
   tag: tags
-  tag: ergostats
 params:
   author: Staff ERGOSTATS
   blogButton:
     description: Visit blog
     title: Blog
+    
   comment:
     disqus: vno-hugo
     duoshuo: ''
