@@ -11,15 +11,11 @@ languages:
     paginate: 10
     paginatePath: page
     weight: 20
-outputs:
-  home:
-    - HTML
-    - RSS
 menu:
   main:
     - identifier: projects
-      name: Projects
-      url: http://project.onevcat.com/
+      name: Posts
+      url: /posts/
       weight: 10
     - identifier: Tags
       name: Tags
@@ -51,10 +47,7 @@ params:
   social:
     github: ergostats
     facebook: ergostats
-    linkedin: example
-    mail: onev@onevcat.com
-    twitter: onevcat
-    weibo: onevcat
+    twitter: ergostats
   subtitle: Investigación y Desarrollo
   welcomeMessage: Bienvenidos
 permalinks:

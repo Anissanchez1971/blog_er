@@ -10,6 +10,8 @@ title: ERGOSTATS -Investigación y Desarrollo
 ---
 #### What's this
 
-[El Centro de Investigación y Estadística ERGOSTATS](https://github.com/ergostats) se preocupa por el impacto en que los datos transforman la realidad,además, quiere ser una comunidad que se integre a las demandas del mundo actual bajo las premisas de innovación y justicia social.
+[El Centro de Investigación y Estadística ERGOSTATS](https://github.com/ergostats)emplea a la Estadística como un conjunto de métodos, técnicas y procedimientos para el manejo de datos, su ordenación, presentación, descripción, análisis e interpretación contribuyen a la investigación de diferentes fenómenos de índole político, economico, social, etc. para la toma de decisiones y mejorar la calidad de vida de los individuos.
+
+
 
 
